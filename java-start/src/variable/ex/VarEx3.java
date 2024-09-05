@@ -6,6 +6,6 @@ public class VarEx3 {
         boolean Bool = true;
         System.out.println(variable);
         System.out.println(Bool);
-
+//수정
     }
 }
