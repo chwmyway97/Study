@@ -5,5 +5,6 @@ public class Var2 {
         int a; //변수 선언
         a = 20; //변수 초기화
         System.out.println(a);
+
     }
 }
