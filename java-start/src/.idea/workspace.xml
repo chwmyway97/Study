@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Comp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Logical1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Logical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/OperatorAdd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/OperatorAdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/Assign1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/ex/OperationEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable/Var2.java" beforeDir="false" afterPath="$PROJECT_DIR$/variable/Var2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/Logical2.java" beforeDir="false" afterPath="$PROJECT_DIR$/operator/Logical2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assign1.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.OperationEx3.executor": "Run",
     "Application.Operator1.executor": "Run",
     "Application.Operator3.executor": "Run",
     "Application.Operator4.executor": "Run",
@@ -75,7 +72,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DMU/Desktop/조형우/Inflearn/java-start/src",
+    "last_opened_file_path": "C:/Users/chwmyway/Desktop/조형우/java-start/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,26 +82,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Logical1">
-    <configuration name="Comp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Comp1" />
+  <component name="RunManager" selected="Application.OperationEx3">
+    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Comp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Comp2" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +101,7 @@
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorAdd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperatorAdd1" />
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorAdd2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperatorAdd2" />
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperationEx3" />
+        <item itemvalue="Application.OperationEx2" />
+        <item itemvalue="Application.OperationEx1" />
+        <item itemvalue="Application.Assign1" />
         <item itemvalue="Application.Logical1" />
-        <item itemvalue="Application.Comp2" />
-        <item itemvalue="Application.Comp1" />
-        <item itemvalue="Application.OperatorAdd2" />
-        <item itemvalue="Application.OperatorAdd1" />
       </list>
     </recent_temporary>
   </component>
@@ -180,10 +177,22 @@
       <workItem from="1725420023518" duration="160000" />
       <workItem from="1725423069781" duration="7235000" />
       <workItem from="1725584394727" duration="11401000" />
+      <workItem from="1725777060593" duration="1108000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
