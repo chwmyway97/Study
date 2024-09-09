@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="연산자">
-      <change afterPath="$PROJECT_DIR$/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/If1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/If2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/If3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/Switch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/Switch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/DistanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/ExchangeRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/GradeSwitchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/MoveRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/MoveRateEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cond/ex/ScoreEx.java" afterDir="false" />
+    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="# 조건문">
+      <change afterPath="$PROJECT_DIR$/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/While2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +54,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Assign1.executor": "Run",
+    "Application.Break1.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.CondOp1.executor": "Run",
     "Application.CondOp2.executor": "Run",
+    "Application.Continue1.executor": "Run",
     "Application.DistanceEx.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.DoWhile2.executor": "Run",
     "Application.ExchangeRateEx.executor": "Run",
     "Application.GradeSwitchEx.executor": "Run",
     "Application.If1.executor": "Run",
@@ -96,6 +90,10 @@
     "Application.VarEx1Question.executor": "Run",
     "Application.VarEx2.executor": "Run",
     "Application.VarEx3.executor": "Run",
+    "Application.While1_1.executor": "Run",
+    "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_3.executor": "Run",
     "Application.var7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -113,16 +111,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop" />
       <recent name="cond" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GradeSwitchEx">
-    <configuration name="DistanceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.DistanceEx" />
+  <component name="RunManager" selected="Application.Continue1">
+    <configuration name="Break1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangeRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.ExchangeRateEx" />
+    <configuration name="Continue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Continue1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSwitchEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.GradeSwitchEx" />
+    <configuration name="DoWhile1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.DoWhile1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.MoveRateEx" />
+    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.DoWhile2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveRateEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ex.MoveRateEx1" />
+    <configuration name="While2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.While2_3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradeSwitchEx" />
-        <item itemvalue="Application.MoveRateEx1" />
-        <item itemvalue="Application.MoveRateEx" />
-        <item itemvalue="Application.ExchangeRateEx" />
-        <item itemvalue="Application.DistanceEx" />
+        <item itemvalue="Application.Continue1" />
+        <item itemvalue="Application.Break1" />
+        <item itemvalue="Application.DoWhile2" />
+        <item itemvalue="Application.DoWhile1" />
+        <item itemvalue="Application.While2_3" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +210,9 @@
       <workItem from="1725420023518" duration="160000" />
       <workItem from="1725423069781" duration="7235000" />
       <workItem from="1725584394727" duration="11401000" />
-      <workItem from="1725777060593" duration="13262000" />
+      <workItem from="1725777060593" duration="13380000" />
+      <workItem from="1725892460052" duration="819000" />
+      <workItem from="1725914976313" duration="2913000" />
     </task>
     <task id="LOCAL-00001" summary="연산자">
       <option name="closed" value="true" />
@@ -221,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725778557206</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# 조건문">
+      <option name="closed" value="true" />
+      <created>1725805577317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725805577317</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="연산자" />
-    <option name="LAST_COMMIT_MESSAGE" value="연산자" />
+    <MESSAGE value="# 조건문" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 조건문" />
   </component>
 </project>
