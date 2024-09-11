@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="# 조건문">
-      <change afterPath="$PROJECT_DIR$/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/Continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/DoWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/While2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/While2_3.java" afterDir="false" />
+    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop/ex/WhileEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,53 +51,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Assign1.executor": "Run",
-    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
-    "Application.CondOp1.executor": "Run",
-    "Application.CondOp2.executor": "Run",
-    "Application.Continue1.executor": "Run",
-    "Application.DistanceEx.executor": "Run",
-    "Application.DoWhile1.executor": "Run",
-    "Application.DoWhile2.executor": "Run",
-    "Application.ExchangeRateEx.executor": "Run",
-    "Application.GradeSwitchEx.executor": "Run",
-    "Application.If1.executor": "Run",
-    "Application.If3.executor": "Run",
-    "Application.If5.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.MoveRateEx.executor": "Run",
-    "Application.MoveRateEx1.executor": "Run",
-    "Application.OperationEx1.executor": "Run",
-    "Application.OperationEx2.executor": "Run",
-    "Application.OperationEx3.executor": "Run",
+    "Application.Nested1.executor": "Run",
     "Application.Operator1.executor": "Run",
     "Application.Operator3.executor": "Run",
     "Application.Operator4.executor": "Run",
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
-    "Application.ScoreEx.executor": "Run",
-    "Application.Switch1.executor": "Run",
-    "Application.Switch2.executor": "Run",
-    "Application.Switch3.executor": "Run",
-    "Application.Switch4.executor": "Run",
     "Application.Var3.executor": "Run",
     "Application.Var6.executor": "Run",
     "Application.VarEx1Question.executor": "Run",
     "Application.VarEx2.executor": "Run",
     "Application.VarEx3.executor": "Run",
-    "Application.While1_1.executor": "Run",
-    "Application.While1_2.executor": "Run",
-    "Application.While2_1.executor": "Run",
-    "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
     "Application.var7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chwmyway/Desktop/조형우/java-start/src",
+    "last_opened_file_path": "C:/Users/DMU/Desktop/조형우/Inflearn/java-start/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,15 +87,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="loop" />
-      <recent name="cond" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Continue1">
-    <configuration name="Break1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Break1" />
+  <component name="RunManager" selected="Application.WhileEx3">
+    <configuration name="Break2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Continue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Continue1" />
+    <configuration name="Nested1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Nested1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -142,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.DoWhile1" />
+    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.DoWhile2" />
+    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.While2_3" />
+    <configuration name="WhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="loop.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Continue1" />
-        <item itemvalue="Application.Break1" />
-        <item itemvalue="Application.DoWhile2" />
-        <item itemvalue="Application.DoWhile1" />
-        <item itemvalue="Application.While2_3" />
+        <item itemvalue="Application.WhileEx3" />
+        <item itemvalue="Application.WhileEx2" />
+        <item itemvalue="Application.WhileEx1" />
+        <item itemvalue="Application.Nested1" />
+        <item itemvalue="Application.Break2" />
       </list>
     </recent_temporary>
   </component>
@@ -210,27 +182,9 @@
       <workItem from="1725420023518" duration="160000" />
       <workItem from="1725423069781" duration="7235000" />
       <workItem from="1725584394727" duration="11401000" />
-      <workItem from="1725777060593" duration="13380000" />
-      <workItem from="1725892460052" duration="819000" />
-      <workItem from="1725914976313" duration="2913000" />
+      <workItem from="1726014181090" duration="743000" />
+      <workItem from="1726037698450" duration="3488000" />
     </task>
-    <task id="LOCAL-00001" summary="연산자">
-      <option name="closed" value="true" />
-      <created>1725778557206</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1725778557206</updated>
-    </task>
-    <task id="LOCAL-00002" summary="# 조건문">
-      <option name="closed" value="true" />
-      <created>1725805577317</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1725805577317</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,10 +200,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="연산자" />
-    <MESSAGE value="# 조건문" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 조건문" />
   </component>
 </project>
