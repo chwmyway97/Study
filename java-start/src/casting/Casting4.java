@@ -2,7 +2,7 @@ package casting;
 
 public class Casting4 {
     public static void main(String[] args) {
-        int div1 = 3 / 2; //1 nhbnbh1q  kjhlkjhkjh;jh/lk;jh/jklhfdhgfdgfdgkjhkjhkjkhkjhklhhkjhjkjh
+        int div1 = 3 / 2; //1
         System.out.println("div1 = " + div1);
 
         double div2 = 3 / 2; //1.0
