@@ -3,14 +3,12 @@ package method.ex;
 public class MethodEx3Ref {
     public static void main(String[] args) {
         int balance = 10000;
-        int depositAmount = 1000; //입금 금액 : 1000원
-        int withdrawAmount = 2000; //출금 금액 : 2000원
 
         //입금
-        balance = deposit(balance, depositAmount);
+        balance = deposit(balance, 1000);
 
         //출금
-        balance = withdraw(balance, withdrawAmount);
+        balance = withdraw(balance, 2000);
 
         //최종
         System.out.println("최종 잔액: " + balance + "원");
