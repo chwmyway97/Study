@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="# 반복문">
-      <change afterPath="$PROJECT_DIR$/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop/ex/NestedEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/method/ex/MethodEx4Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/method/ex/MethodEx4Ref.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Application.For2.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodEx4Ref.executor": "Run",
     "Application.Nested1.executor": "Run",
     "Application.NestedEx1.executor": "Run",
     "Application.NestedEx2.executor": "Run",
@@ -74,7 +76,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DMU/Desktop/조형우/Inflearn/java-start/src",
+    "last_opened_file_path": "C:/Users/chwmy/Inflearn/java-start/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +86,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NestedEx2">
+  <component name="RunManager" selected="Application.MethodEx4Ref">
+    <configuration name="MethodEx4Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4Ref" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NestedEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx1" />
       <module name="java-start" />
@@ -100,19 +115,6 @@
     </configuration>
     <configuration name="NestedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx2" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.WhileEx1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodEx4Ref" />
         <item itemvalue="Application.NestedEx2" />
         <item itemvalue="Application.NestedEx1" />
         <item itemvalue="Application.WhileEx3" />
         <item itemvalue="Application.WhileEx2" />
-        <item itemvalue="Application.WhileEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +183,7 @@
       <workItem from="1725584394727" duration="11401000" />
       <workItem from="1726014181090" duration="743000" />
       <workItem from="1726037698450" duration="5201000" />
+      <workItem from="1729559148260" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="# 반복문">
       <option name="closed" value="true" />
