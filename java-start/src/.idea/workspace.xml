@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="# 반복문">
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/method/ex/MethodEx4Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/method/ex/MethodEx4Ref.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1494bb1-2225-45a6-a1c7-138520f49d46" name="Changes" comment="# 반복문" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,12 +71,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/chwmy/Inflearn/java-start/src",
+    "last_opened_file_path": "C:/Users/chwmyway/Desktop/조형우/java-basic/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
@@ -212,6 +210,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# 반복문" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 반복문" />
+    <MESSAGE value="# 매서드" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 매서드" />
   </component>
 </project>
